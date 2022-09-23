@@ -1,8 +1,8 @@
 # RIDMI
 
-✍️ Nombre del equipo:
+✍️ Nombre del equipo: Mario Jimenez
 
-✍️ Integrantes del equipo:
+✍️ Integrantes del equipo: Grupo Fran y Miguel
 
 EY EY EY! AQUÍ TENÉIS LAS INSTRUCCIONES DE LA PRUEBA 4!!!
 
